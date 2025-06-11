@@ -1,8 +1,11 @@
 
 class user{
-	int a = 10;
-	
+
+   int a = 10;
+
+   boolean status = true;	
+
 }
 
-this is sample user data
+
 
