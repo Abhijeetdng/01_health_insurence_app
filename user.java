@@ -3,7 +3,9 @@ class user{
 
    int a = 10;
 
-   boolean status = true;	
+   boolean status = true;
+
+	double price = 10.40; 
 
 }
 
